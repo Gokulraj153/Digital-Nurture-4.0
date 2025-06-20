@@ -1,1 +1,2 @@
 # Digital-Nurture-4.0
+This repository provides solutions to the hands-on coding and problem-solving tasks from the CTS (Cognizant Technology Solutions) Digital Nurture program. The problems are organized week-wise, with each solution presented in a clear and structured manner for easy understanding.It serves as a helpful resource for enhancing coding skills and gaining confidence in solving real-world programming challenges for the students.
