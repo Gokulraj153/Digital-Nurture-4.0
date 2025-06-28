@@ -1,0 +1,4 @@
+23:00:40.226 [main] DEBUG com.example.logging.AppenderExample - Debugging the application
+23:00:40.230 [main] INFO  com.example.logging.AppenderExample - Info message logged
+23:00:40.231 [main] WARN  com.example.logging.AppenderExample - Warning occurred
+23:00:40.232 [main] ERROR com.example.logging.AppenderExample - Error encountered
